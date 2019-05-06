@@ -1,6 +1,6 @@
 # BadDevice
 
-[![CI Status](https://img.shields.io/travis/taotao/BadDevice.svg?style=flat)](https://travis-ci.org/taotao/BadDevice)
+[![CI Status](https://img.shields.io/travis/badaccess/BadDevice.svg?style=flat)](https://travis-ci.org/badaccess/BadDevice)
 [![Version](https://img.shields.io/cocoapods/v/BadDevice.svg?style=flat)](https://cocoapods.org/pods/BadDevice)
 [![License](https://img.shields.io/cocoapods/l/BadDevice.svg?style=flat)](https://cocoapods.org/pods/BadDevice)
 [![Platform](https://img.shields.io/cocoapods/p/BadDevice.svg?style=flat)](https://cocoapods.org/pods/BadDevice)
@@ -22,7 +22,7 @@ pod 'BadDevice'
 
 ## Author
 
-taotao, taotao@iflytek.com
+badaccess, badaccess@qq.com
 
 ## License
 

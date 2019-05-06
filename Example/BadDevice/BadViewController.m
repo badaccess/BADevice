@@ -2,8 +2,8 @@
 //  BadViewController.m
 //  BadDevice
 //
-//  Created by taotao on 05/06/2019.
-//  Copyright (c) 2019 taotao. All rights reserved.
+//  Created by badaccess on 05/06/2019.
+//  Copyright (c) 2019 badaccess. All rights reserved.
 //
 
 #import "BadViewController.h"
